@@ -8,3 +8,6 @@
 [submodule "boostPM"]
 	path = boostPM
 	url = https://github.com/nawaya040/boostpm-cran
+[submodule "ptcompare"]
+	path = ptcompare
+	url = https://github.com/nawaya040/ptcompare
